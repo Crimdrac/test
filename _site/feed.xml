@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>D&amp;D</title>
+    <description>Home</description>
+    <link>http://localhost:4000</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>Genesis</title>
+        <description>
+          
+          
+
+        </description>
+        <pubDate>Sat, 07 Jul 2018 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/2018-07-07-test/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018-07-07-test/</guid>
+      </item>
+    
+  </channel>
+</rss>
